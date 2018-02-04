@@ -1,0 +1,114 @@
+body {
+	font-family: 'Ultra', serif;
+	background-color: transparent;
+	color: black; 
+	margin: 0
+}
+
+.header-text-container {
+  background-color: beige;
+  padding: 10px;
+  border:solid;
+  opacity: 0.9;
+  color: black;
+}
+
+p{
+	font-family: 'Ultra', serif;
+	color: red;
+}
+
+.background-img{
+background-image: url(../img/cinemagraph-6.gif);
+height: 100vh;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+text-align: center;
+
+}
+
+.room {
+background-image: url(https://www.oberoihotels.com/images/hotels-in-agra-amarvilas-resort/rooms-suites/banner/agra-home-banner2.jpg?v=10);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+text-align: center;
+height: 100vh;
+color: red;
+font-size: 40px;
+font-size: x-large;
+text-transform: blue;
+}
+
+.island {
+  border-radius: 50%;
+width: :300px;
+height: 300px;
+border: solid;
+}
+
+.second-island {
+border-radius: 50%;
+width: :400px;
+height: 280px;
+border: solid;
+
+}
+
+.text-header {
+	color: white;
+	padding-top:40vh;
+  position: absolute;
+  top: 1%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  white-space: nowrap;
+  text-shadow: 0 2px 2px rgba(#000, 0.9) ;
+  background-color: transparent;
+  border-radius: 200px;
+}
+
+.background-div {
+background-image: url(https://cdn.kiwicollection.com/media/property/PR001934/xl/001934-13-dining-room.jpg);
+height: 100vh;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+text-align: center;
+margin: 0;
+}
+
+
+.container {
+
+top: 50%
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;
+text-align: center;
+font-family: 'Yellowtail', cursive;
+font-size: xx-large;
+margin: 0;
+
+}
+
+.text-activities{
+  background-color: beige;
+  text-align: center;
+font-size: xx-large;
+
+}
+
+.big-title {
+    background-color: grey;
+  text-align: center;
+  font-family: 'Yellowtail', cursive;
+font-size: xx-large;
+}
+
